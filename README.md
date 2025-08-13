@@ -1,7 +1,6 @@
 # 🌌 SkyPPM — ESP-NOW 无线 PPM 传输系统
 
-![SkyPPM Banner](docs/banner.png)
-
+<img src="docs/banner.png"  height="200" />
 > **SkyPPM** 是一个基于 **ESP-NOW** 协议的低延迟无线 PPM 传输方案。  
 > 诞生的初衷是为了解决 **Walksnail Avatar Goggles X** 头追功能必须用有线 PPM 连接遥控器的麻烦问题，  
 > 通过极其简单且廉价的硬件实现 **无线头追**，同时它也可应用于其他 RC 场景。
